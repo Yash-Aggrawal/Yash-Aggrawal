@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I am currently working at Samsung Bangalore as a Software Developer.
+- 👨‍💻 I am currently working at Samsung Bangalore as a Senior Software Developer.
 
 - 👨‍💻 I am a Computer Science graduate from **[NIT-A](https://www.nita.ac.in/)**.
 
 - 🌱 I am Proficient in **DSA, React, JavaScript, nodejs, full stack development and C++ .**
 
-- 👯 I am looking to work as **Senior Software Developer** and build awesome tech to help the society.
+- 👯 I am looking to work as **Software Developer** and build awesome tech to help the society.
 
 
 - 📫 How to reach me **yashagrawal81930@gmail.com**.
