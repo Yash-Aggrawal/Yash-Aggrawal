@@ -12,7 +12,7 @@
 
 - 🌱 I am Proficient in **DSA, React, JavaScript, nodejs, full stack development and C++ .**
 
-- 👯 I am looking to work as **Software Developer** and build awesome tech to help the society.
+- 👯 I am looking to work as **Senior Software Developer** and build awesome tech to help the society.
 
 
 - 📫 How to reach me **yashagrawal81930@gmail.com**.
